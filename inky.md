@@ -1,2 +1,0 @@
-# inky el fantasma
-Inky, el fantasma azul, siempre trata de cortar el paso a Pac-Man. No es peligroso por sí mismo, pero en combinación con Blinky y Pinky resulta letal, ya que entre los tres acaban por rodear al jugador despistado.

@@ -3,3 +3,4 @@ es un icónico videojuego de arcade lanzado por Namco en 1980 que se convirtió 
 
 **Autor: Henry Ortega**
 
+**Juegalo Ahora:** [Enlace del Juego](https://pacmangratis.net/.)

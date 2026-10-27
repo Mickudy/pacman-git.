@@ -30,3 +30,6 @@ es un icónico videojuego de arcade lanzado por Namco en 1980 que se convirtió 
 ![Imagen](./img/muestra_Del_tag.png)
 ![Imagen](./img/Subir_tag.png)
 ![Imagen](./img/final_tag.png)
+
+### Muestra de la Grafica de mi Repositorio
+![Imagen](./img/Grafic.png)

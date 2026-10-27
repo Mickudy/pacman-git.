@@ -1,0 +1,3 @@
+# Pinky
+
+**Pinky**, el fantasma rosa, normalmente sigue a Blinky, aunque ocasionalmente se pierde. Es el primero en cambiar de dirección cuando se acerca el final del nivel, por lo que es mejor mantenerse lejos cuando queden pocos puntos en pantalla.

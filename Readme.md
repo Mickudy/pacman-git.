@@ -16,3 +16,7 @@ es un icónico videojuego de arcade lanzado por Namco en 1980 que se convirtió 
 
 - [Blinky](blinky.md)
 - [Pinky](pinky.md)
+- [Inky](inky.md)
+- [Clyde](clyde.md)
+
+### [x] Muestra del Hisotria de la bracnha 

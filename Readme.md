@@ -15,3 +15,4 @@ es un icónico videojuego de arcade lanzado por Namco en 1980 que se convirtió 
 ## Fantasmas
 
 - [Blinky](blinky.md)
+- [Pinky](pinky.md)

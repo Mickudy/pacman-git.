@@ -11,3 +11,7 @@ es un icónico videojuego de arcade lanzado por Namco en 1980 que se convirtió 
 
 ##### 5 Muestras del Regreso al Pasado
 ![Imagen](./img/Captura%20de%20pantalla%202026-10-22%20200053.png)
+
+## Fantasmas
+
+- [Blinky](blinky.md)
